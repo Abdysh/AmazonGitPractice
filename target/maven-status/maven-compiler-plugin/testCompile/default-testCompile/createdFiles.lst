@@ -1,0 +1,6 @@
+step_defs\Test.class
+step_defs\CucumberDemoSteps.class
+step_defs\DataTableSteps.class
+step_defs\ScenarioOutlineSteps.class
+runners\RegressionRunner.class
+runners\SmokeRunner.class

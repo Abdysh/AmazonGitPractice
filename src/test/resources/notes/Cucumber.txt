@@ -1,0 +1,10 @@
+
+a) TDD - Test Driven Development (1. Code - 2. Testing)
+
+b) BDD - Behaviour Driven Development - Cucumber
+
+c) Step_defs - Step definitions
+
+d) mvn clean install "-Dcucumber.options=--tags @Smoke"
+
+e) mvn clean install "-Dcucumber.options=tags @Regression"
